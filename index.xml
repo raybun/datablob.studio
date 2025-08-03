@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>datablob studio</title>
-    <link>https://datablob.studio/</link>
+    <link>https://raybun.github.io/datablob.studio/</link>
     <description>Recent content on datablob studio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>copyright 2025 - datablob studio</copyright>
-    <atom:link href="https://datablob.studio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raybun.github.io/datablob.studio/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
